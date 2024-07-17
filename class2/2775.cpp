@@ -28,7 +28,7 @@ int main()
 		{
 			for (int j = 1; j <= n; j++)
 				arr[i][j] = arr[i][j - 1] + arr[i - 1][j];
-		}
+		} 
 
 		cout << arr[k][n] << '\n';
 	}
