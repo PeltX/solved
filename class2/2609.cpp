@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	int A, B, i, q, r;
+	int A, B, q, r;
 	cin >> A >> B;
 	int GCD, LCM;
 	int A_o = A, B_o = B; //LCM 계산을 위한 A, B 원본
