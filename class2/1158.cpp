@@ -1,4 +1,4 @@
-//요세푸스 문제, 20240717
+//1158, 요세푸스 문제, 20240717
 #include<iostream>
 #include<vector>
 

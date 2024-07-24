@@ -1,4 +1,4 @@
-//1676, 팩토리얼 0의 개수
+//1676, 팩토리얼 0의 개수 20240723
 #include<iostream>
 
 using namespace std;
