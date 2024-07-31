@@ -9,7 +9,7 @@ int stack[10000];
 
 int main()
 {
-	int X, N, ins=0; //instructor는 stack의 top를 가리킨다.
+	int X, N, ins=0;
 	string str;
 	
 	cin >> N;
